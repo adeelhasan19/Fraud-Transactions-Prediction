@@ -2,6 +2,8 @@
 
 This case requires trainees to develop a model for predicting fraudulent transactions for a financial company and use insights from the model to develop an actionable plan. Data for the case is available in CSV format having 6362620 rows and 10 columns.
 
+# Data Source Link- https://www.google.com/url?sa=D&q=https://drive.google.com/uc%3Fexport%3Ddownload%26confirm%3D6gh6%26id%3D1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&ust=1655202900000000&usg=AOvVaw3Is5VjVthe6s9I8XvuqzX3&hl=en&source=gmail
+
 # Data Dictionary
 
 step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation).
